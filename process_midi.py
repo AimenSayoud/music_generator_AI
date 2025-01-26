@@ -1,4 +1,3 @@
-# First, let's modify the processing script (python/process_midi.py):
 import pretty_midi
 import numpy as np
 import glob
